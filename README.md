@@ -16,6 +16,9 @@
 - [goquery](https://github.com/PuerkitoBio/goquery)
 - [qbs](https://github.com/coocood/qbs)
 - [jas](https://github.com/coocood/jas)
+- [revel](https://github.com/robfig/revel)
+- [martini](https://github.com/codegangsta/martini)
+- [cli](https://github.com/codegangsta/cli)
 
 ### 授权许可
 
