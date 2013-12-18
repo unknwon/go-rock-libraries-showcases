@@ -21,6 +21,10 @@
 - [cli](https://github.com/codegangsta/cli)
 - [godev](https://github.com/sirnewton01/godev)
 - [gocrawl](https://github.com/PuerkitoBio/gocrawl)
+- [beewatch](https://github.com/beego/beewatch)
+- [hopwatch](https://github.com/emicklei/hopwatch)
+- [dbgutil](https://github.com/realint/dbgutil)
+- [goconfig](https://github.com/Unknwon/goconfig)
 
 ### 授权许可
 
