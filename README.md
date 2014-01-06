@@ -35,6 +35,9 @@
 	- [gocrawl](https://github.com/PuerkitoBio/gocrawl)
 	- [goconfig](https://github.com/Unknwon/goconfig)
 	- [wukong](https://github.com/huichen/wukong)
+	- [gettext-go](http://code.google.com/p/gettext-go)
+	- [email](https://github.com/jordan-wright/email)
+	- [prptorpc](https://code.google.com/p/protorpc/)
 
 ### 授权许可
 
