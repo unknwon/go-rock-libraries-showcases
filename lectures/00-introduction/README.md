@@ -8,8 +8,10 @@
 
 ### 课时大纲
 
+	[00:00] 往期教程回顾
 	[00:00] GitHub 参与介绍
 	[00:00] Trello 参与介绍
+	[00:00] 优才网参与介绍
 	
 ### 补充说明
 
@@ -17,4 +19,6 @@
 
 ### 相关链接
 
-- 暂无链接
+- [Go 1.2 版本下载](http://www.golangtc.com/download)
+- [Sublime Text 3 下载](http://www.sublimetext.com/3)
+- [支付宝捐赠页面](https://me.alipay.com/obahua)

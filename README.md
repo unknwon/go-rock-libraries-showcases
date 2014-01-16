@@ -5,7 +5,7 @@
 
 ### 基本信息
 
-- **教程讲师**：[无闻](http://about.me/unknwon)
+- **教程讲师**：[无闻](http://weibo.com/Obahua)
 - **教程简介**：《Go名库讲解》是一套针对 Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程，适合完成学习完成 [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming) 教程的学习者。
 - **学前要求**：本套教程要求学习者具有基本的 Go 语言开发能力，最好是完成学习 [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming) 的同学。
 - **开发环境**：Go 语言 1.2 版本
@@ -32,6 +32,23 @@
 
 - **发布时间**：2014 年 1 月 20 日
 - **课程标题**：课程学习指导
+
+### 相关资源
+
+- 教程资源
+	 - [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
+	 - [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
+- QQ 交流群
+	- Golang Web开发：231956113
+	- Go Web编程：259316004
+- 学习网站
+	- [Go 中国社区](http://bbs.go-china.org/)
+	- [Go 语言学习园地](http://studygolang.com/)
+	- [Golang 中国](http://golangtc.com/)
+	- [Golang 中国博客](http://blog.go-china.org/)
+- 辅助站点
+	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
+
 
 ### 授权许可
 
