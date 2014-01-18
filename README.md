@@ -15,7 +15,7 @@
 - **提交课程**：如果您关注的第三方库未在 [Trello](https://trello.com/b/erdktQ66/go) 的所有列表中找到，可以通过 [提交 Issue](https://github.com/Unknwon/go-rock-libraries-showcases/issues) 的方式告知我。
 - **捐赠作者**：如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [支付宝](https://me.alipay.com/obahua) 为作者提供小额捐助，以资鼓励。
 - **收录网站**：
-	- 优才网
+	- [优才网](http://www.ucai.cn/course/show/134)
 	- [土豆网](http://www.tudou.com/plcover/m1AWOKxI9nQ/)
 	- 网易云课堂
 	- [Go China 网络课堂](http://edu.go-china.org/course/3)
@@ -35,7 +35,7 @@
 
 |课程标题|副标题|课时数|在线播放|
 |:-----:|:---:|:---:|:-----|
-|[课程学习指导](lectures/00-introduction/README.md)|/|1/1|[优才网] [网易云课堂] [Go China 网络课堂]|
+|[课程学习指导](lectures/00-introduction/README.md)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂] [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/28)|
 |goconfig - INI 解析器|goconfig 使用解析|1/1|[优才网] [网易云课堂] [Go China 网络课堂]|
 
 ### 相关资源
