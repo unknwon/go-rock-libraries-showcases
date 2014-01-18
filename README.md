@@ -18,7 +18,7 @@
 	- 优才网
 	- [土豆网](http://www.tudou.com/plcover/m1AWOKxI9nQ/)
 	- 网易云课堂
-	- Go China 网络课堂
+	- [Go China 网络课堂](http://edu.go-china.org/course/3)
 - **课程下载**：
 	- [微云](http://url.cn/OhjBmY)
 	- [360云盘](http://awbrpcugz5.l5.yunpan.cn/lk/Qz8TMMhMnZIFp)
