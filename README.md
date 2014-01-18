@@ -21,17 +21,16 @@
 	- 网易云课堂
 	- Go China 网络课堂
 - **课程下载**：
-	- 微云
-	- 微盘
-	- 360云盘
-	- 百度网盘
+	- [微云](http://url.cn/OhjBmY)
+	- [360云盘](http://awbrpcugz5.l5.yunpan.cn/lk/Qz8TMMhMnZIFp)
+	- [百度网盘](http://pan.baidu.com/s/1qWEY8Lu)
 
 #### 如果您特别关注某个课程，请在 [Trello](https://trello.com/b/erdktQ66/go) 为它投票，这样可以提升录制优先级
 
-## 课程预告
+## 课程预告  
 
-- **发布时间**：2014 年 1 月 18 日
-- **课程标题**：课程学习指导
+- **发布时间**：2014 年 2 月 15 日
+- **课程标题**：goconfig - INI 解析器（课时 1：goconfig 使用解析）
 
 ## 课程大纲
 
