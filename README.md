@@ -17,11 +17,10 @@
 - **收录网站**：
 	- [优才网](http://www.ucai.cn/course/show/134)
 	- [土豆网](http://www.tudou.com/plcover/m1AWOKxI9nQ/)
-	- 网易云课堂
+	- [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=510006#/courseMain)
 	- [Go China 网络课堂](http://edu.go-china.org/course/3)
 - **课程下载**：
 	- [微云](http://url.cn/OhjBmY)
-	- [360云盘](http://awbrpcugz5.l5.yunpan.cn/lk/Qz8TMMhMnZIFp)
 	- [百度网盘](http://pan.baidu.com/s/1qWEY8Lu)
 
 #### 如果您特别关注某个课程，请在 [Trello](https://trello.com/b/erdktQ66/go) 为它投票，这样可以提升录制优先级
@@ -35,7 +34,7 @@
 
 |课程标题|副标题|课时数|在线播放|
 |:-----:|:---:|:---:|:-----|
-|[课程学习指导](lectures/00-introduction/README.md)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂] [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/28)|
+|[课程学习指导](lectures/00-introduction/README.md)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/28)|
 |goconfig - INI 解析器|goconfig 使用解析|1/1|[优才网] [网易云课堂] [Go China 网络课堂]|
 
 ### 相关资源
