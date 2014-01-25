@@ -50,7 +50,6 @@ func main() {
 
 	// 可在操作中途追加配置文件
 	err = cfg.AppendFiles("conf3.ini")
-	err = cfg.Reload()
 	if err != nil {
 		log.Fatalf("无法追加配置文件：%s", err)
 	}

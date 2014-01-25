@@ -23,3 +23,7 @@
 - [Go 1.2 版本下载](http://www.golangtc.com/download)
 - [Sublime Text 3 下载](http://www.sublimetext.com/3)
 - [支付宝捐赠页面](https://me.alipay.com/obahua)
+
+### 课程链接
+
+- [goconfig - 课时 1：goconfig 使用解析](../01-goconfig)
