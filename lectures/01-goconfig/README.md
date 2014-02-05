@@ -13,7 +13,7 @@
 - **课时时长**：46:25
 - **配套博客**：[goconfig - 课时 1：goconfig 使用解析](http://wuwen.org/article/17/01-goconfig-class1.html)
 - **示例代码**：[示例代码 1](class1/sample1) [示例代码 2](class1/sample2)
-- **在线播放**：[优才网] [土豆网] [网易云课堂] [Go China 网络课堂]
+- **在线播放**：[优才网] [土豆网](http://www.tudou.com/programs/view/F_8zwFTIW10/) [网易云课堂] [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/29)
 - **资源下载**：[微云](http://url.cn/VT71Cc) [百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F01-goconfig%2Fclass1)
 - **作业讲解**：[微云] [百度网盘]
 
