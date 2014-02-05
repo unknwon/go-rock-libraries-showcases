@@ -27,15 +27,15 @@
 
 ## 课程预告  
 
-- **发布时间**：2014 年 3 月 10 日
-- **课程标题**：
+- **发布时间**：2014 年 2 月 9 日
+- **课程标题**：goconfig 课时 1 作业评析
 
 ## 课程大纲
 
 |课程标题|副标题|课时数|在线播放|
 |:-----:|:---:|:---:|:-----|
 |[课程学习指导](lectures/00-introduction)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/28)|
-|[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网] [网易云课堂] [Go China 网络课堂]|
+|[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网] [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/29)|
 
 ### 相关资源
 
@@ -52,6 +52,7 @@
 	- [Golang 中国博客](http://blog.go-china.org/)
 - 辅助站点
 	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
+	- [Go Build](http://gobuild.io)：Go 语言在线编译
 
 
 ### 授权许可
