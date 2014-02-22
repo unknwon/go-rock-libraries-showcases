@@ -54,11 +54,9 @@
 	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
 	- [Go Build](http://gobuild.io)：Go 语言在线编译
 
-
 ### 授权许可
 
 除特别声明外，本套教程中的内容使用 CC BY-SA 3.0 License（创作共用 署名-相同方式共享 3.0 许可协议）授权，代码遵循 BSD 3-Clause License（3 项条款的 BSD 许可协议）。
-
 
 ## 本套教程由 [优才网](http://www.ucai.cn/) 独家冠名赞助，特此感谢！
 
