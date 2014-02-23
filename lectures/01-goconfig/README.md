@@ -15,7 +15,7 @@
 - **示例代码**：[示例代码 1](class1/sample1) [示例代码 2](class1/sample2)
 - **在线播放**：[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [土豆网](http://www.tudou.com/programs/view/F_8zwFTIW10/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/29)
 - **资源下载**：[微云](http://url.cn/VT71Cc) [百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F01-goconfig%2Fclass1)
-- **作业讲解**：[百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F01-goconfig%2Fclass1%2F%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3)（时长：14:49）
+- **作业讲解**：[优才网] [土豆网](http://www.tudou.com/programs/view/ir6LFHwSNZg) [网易云课堂] [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/30) [百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F01-goconfig%2Fclass1%2F%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3)（时长：14:49）
 
 ### 课时大纲
 
