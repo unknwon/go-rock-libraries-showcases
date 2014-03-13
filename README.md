@@ -27,8 +27,8 @@
 
 ## 课程预告  
 
-- **发布时间**：2014 年 3 月 9 日
-- **课程标题**：xorm 课时 1
+- **发布时间**：2014 年 3 月 15 日
+- **课程标题**：xorm 课时 1：常见用法指导
 
 ## 课程大纲
 
@@ -36,6 +36,7 @@
 |:-----:|:---:|:---:|:-----|
 |[课程学习指导](lectures/00-introduction)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/28)|
 |[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/29)|
+|[xorm - Go 语言 ORM](lectures/02-xrom)|常见用法指导|1/2|[优才网] [网易云课堂] [Go China 网络课堂]|
 
 ### 相关资源
 
