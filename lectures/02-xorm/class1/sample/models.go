@@ -110,6 +110,7 @@ func makeTransfer(id1, id2 int64, balance float64) error {
 		return errors.New("Not enough balance")
 	}
 
+	// 下面代码存在问题，需要采用事务回滚来改进（课时 2）
 	a1.Balance -= balance
 	a2.Balance += balance
 	if _, err = x.Update(a1); err != nil {
