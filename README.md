@@ -8,7 +8,7 @@
 - **教程讲师**：[无闻](http://weibo.com/Obahua)
 - **教程简介**：《Go名库讲解》是一套针对 Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程，适合完成学习完成 [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming) 教程的学习者。
 - **学前要求**：本套教程要求学习者具有基本的 Go 语言开发能力，最好是完成学习 [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming) 的同学。
-- **开发环境**：Go 语言 1.2 版本
+- **开发环境**：Go 语言 1.2.* 版本
 - **开发工具**：Sublime Text 3
 - **开发系统**：Mac OS 10.9.*
 - **教程进展**：通过 [Trello](https://trello.com/b/erdktQ66/go) 可随时关注教程进展情况，订阅邮件更新或评论、投票相应的课程。
