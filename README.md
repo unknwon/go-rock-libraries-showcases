@@ -18,7 +18,6 @@
 	- [优才网](http://www.ucai.cn/course/show/134)
 	- [土豆网](http://www.tudou.com/plcover/m1AWOKxI9nQ/)
 	- [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=510006#/courseMain)
-	- [Go China 网络课堂](http://edu.go-china.org/course/3)
 - **课程下载**：
 	- [微云](http://url.cn/OhjBmY)
 	- [百度网盘](http://pan.baidu.com/s/1qWEY8Lu)
@@ -34,9 +33,9 @@
 
 |课程标题|副标题|课时数|在线播放|
 |:-----:|:---:|:---:|:-----|
-|[课程学习指导](lectures/00-introduction)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/28)|
-|[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006) [Go China 网络课堂](http://edu.go-china.org/course/3/learn#lesson/29)|
-|[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网] [网易云课堂] [Go China 网络课堂]|
+|[课程学习指导](lectures/00-introduction)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006)|
+|[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006)|
+|[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网] [网易云课堂]|
 
 ### 相关资源
 
