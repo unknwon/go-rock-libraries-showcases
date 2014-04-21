@@ -13,14 +13,20 @@
 - **课时时长**：53:21
 - **配套博客**：[xorm - 课时 1：常见用法指导](http://wuwen.org/article/28/02-xorm-class1.html)
 - **示例代码**：[示例代码](class1/sample)
-- **在线播放**：[优才网] [土豆网] [网易云课堂]
-- **资源下载**：[微云] [百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F02-xorm%2Fclass1)
-- **作业讲解**：[优才网] [土豆网] [网易云课堂] [百度网盘]（时长：00:00）
+- **在线播放**：[优才网] [土豆网](http://www.tudou.com/programs/view/HRUEtXXV_QM/) [网易云课堂]
+- **资源下载**：[微云](http://url.cn/JicH4r) [百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F02-xorm%2Fclass1)
 
 ### 课时大纲
 
 	[00:00] 库简介
-	[04:23] 下载安装
+	[02:55] 定义模型
+	[08:16] 创建 ORM 引擎
+	[13:07] 自动同步表结构
+	[15:43] 新增记录
+	[26:13] 获取与修改记录
+	[44:47] 批量获取信息
+	[48:53] 删除记录
+	[52:37] 小结
 	
 ### 补充说明
 
