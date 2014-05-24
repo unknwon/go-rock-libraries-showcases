@@ -13,7 +13,7 @@
 - **开发系统**：Mac OS 10.9.*
 - **教程进展**：通过 [Trello](https://trello.com/b/erdktQ66/go) 可随时关注教程进展情况，订阅邮件更新或评论、投票相应的课程。
 - **提交课程**：如果您关注的第三方库未在 [Trello](https://trello.com/b/erdktQ66/go) 的所有列表中找到，可以通过 [提交 Issue](https://github.com/Unknwon/go-rock-libraries-showcases/issues) 的方式告知我。
-- **捐赠作者**：如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [支付宝](https://me.alipay.com/obahua) 为作者提供小额捐助，以资鼓励。
+- **捐赠作者**：如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [支付宝](http://gogs.io/donate) 为作者提供小额捐助，以资鼓励。
 - **收录网站**：
 	- [优才网](http://www.ucai.cn/course/show/134)
 	- [土豆网](http://www.tudou.com/plcover/m1AWOKxI9nQ/)
