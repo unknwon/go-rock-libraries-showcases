@@ -14,7 +14,7 @@
 - **配套博客**：[xorm - 课时 1：常见用法指导](http://wuwen.org/article/28/02-xorm-class1.html)
 - **示例代码**：[示例代码](class1/sample)
 - **在线播放**：[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [土豆网](http://www.tudou.com/programs/view/HRUEtXXV_QM/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)
-- **资源下载**：[微云](http://url.cn/JicH4r) [百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F02-xorm%2Fclass1)
+- **资源下载**：[百度网盘](http://pan.baidu.com/s/1qWEY8Lu#dir/path=%2FGo%2FVideo_Courses%2FGo%E5%90%8D%E5%BA%93%E8%AE%B2%E8%A7%A3%2F02-xorm%2Fclass1)
 
 ### 课时大纲
 
@@ -44,7 +44,7 @@
 - **配套博客**：[xorm - 课时 2：高级用法讲解]
 - **示例代码**：[示例代码]
 - **在线播放**：[优才网] [土豆网] [网易云课堂]
-- **资源下载**：[微云] [百度网盘]
+- **资源下载**：[百度网盘]
 - **作业讲解**：[优才网] [土豆网] [网易云课堂] [百度网盘]（时长：00:00）
 
 ### 课时大纲

@@ -19,14 +19,13 @@
 	- [土豆网](http://www.tudou.com/plcover/m1AWOKxI9nQ/)
 	- [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=510006#/courseMain)
 - **课程下载**：
-	- [微云](http://url.cn/OhjBmY)
 	- [百度网盘](http://pan.baidu.com/s/1qWEY8Lu)
 
 #### 如果您特别关注某个课程，请在 [Trello](https://trello.com/b/erdktQ66/go) 为它投票，这样可以提升录制优先级
 
 ## 课程预告  
 
-- **发布时间**：2014 年 5 月 1 日
+- **发布时间**：2014 年 6 月 5 日
 - **课程标题**：xorm 课时 2：高级用法讲解
 
 ## 课程大纲
@@ -35,7 +34,8 @@
 |:-----:|:---:|:---:|:-----|
 |[课程学习指导](lectures/00-introduction)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006)|
 |[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006)|
-|[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网] [网易云课堂]|
+|[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
+||高级用法讲解|2/2|[优才网] [网易云课堂]|
 
 ### 相关资源
 
