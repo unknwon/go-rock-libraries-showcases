@@ -110,16 +110,26 @@ func makeTransfer(id1, id2 int64, balance float64) error {
 		return errors.New("Not enough balance")
 	}
 
-	// 下面代码存在问题，需要采用事务回滚来改进（课时 2）
 	a1.Balance -= balance
 	a2.Balance += balance
-	if _, err = x.Update(a1); err != nil {
-		return err
-	} else if _, err = x.Update(a2); err != nil {
+	// 创建 Session 对象
+	sess := x.NewSession()
+	defer sess.Close()
+	// 启动事务
+	if err = sess.Begin(); err != nil {
 		return err
 	}
 
-	return nil
+	if _, err = sess.Update(a1); err != nil {
+		// 发生错误时进行回滚
+		sess.Rollback()
+		return err
+	} else if _, err = sess.Update(a2); err != nil {
+		sess.Rollback()
+		return err
+	}
+	// 完成事务
+	return sess.Commit()
 }
 
 // 按照 ID 正序排序返回所有账户

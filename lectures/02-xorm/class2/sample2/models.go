@@ -17,6 +17,7 @@ package main
 import (
 	"errors"
 	"log"
+	"os"
 
 	"github.com/go-xorm/xorm"
 	_ "github.com/mattn/go-sqlite3"
@@ -28,6 +29,14 @@ type Account struct {
 	Name    string `xorm:"unique"`
 	Balance float64
 	Version int `xorm:"version"` // 乐观锁
+}
+
+func (a *Account) BeforeInsert() {
+	log.Printf("before insert: %s", a.Name)
+}
+
+func (a *Account) AfterInsert() {
+	log.Printf("after insert: %s", a.Name)
 }
 
 // ORM 引擎
@@ -45,6 +54,19 @@ func init() {
 	if err = x.Sync(new(Account)); err != nil {
 		log.Fatalf("Fail to sync database: %v\n", err)
 	}
+
+	// 记录日志
+	f, err := os.Create("sql.log")
+	if err != nil {
+		log.Fatalf("Fail to create log file: %v\n", err)
+		return
+	}
+	x.Logger = xorm.NewSimpleLogger(f)
+	x.ShowSQL = true
+
+	// 设置默认 LRU 缓存
+	cacher := xorm.NewLRUCacher(xorm.NewMemoryStore(), 1000)
+	x.SetDefaultCacher(cacher)
 }
 
 // 创建新的账户
@@ -52,6 +74,11 @@ func newAccount(name string, balance float64) error {
 	// 对未存在记录进行插入
 	_, err := x.Insert(&Account{Name: name, Balance: balance})
 	return err
+}
+
+// 获取账户数量
+func getAccountCount() (int64, error) {
+	return x.Count(new(Account))
 }
 
 // 获取账户信息
@@ -66,79 +93,4 @@ func getAccount(id int64) (*Account, error) {
 		return nil, errors.New("Account does not exist")
 	}
 	return a, nil
-}
-
-// 用户存款
-func makeDeposit(id int64, deposit float64) (*Account, error) {
-	a, err := getAccount(id)
-	if err != nil {
-		return nil, err
-	}
-	a.Balance += deposit
-	// 对已有记录进行更新
-	_, err = x.Update(a)
-	return a, err
-}
-
-// 用户取款
-func makeWithdraw(id int64, withdraw float64) (*Account, error) {
-	a, err := getAccount(id)
-	if err != nil {
-		return nil, err
-	}
-	if a.Balance < withdraw {
-		return nil, errors.New("Not enough balance")
-	}
-	a.Balance -= withdraw
-	_, err = x.Update(a)
-	return a, err
-}
-
-// 用户转账
-func makeTransfer(id1, id2 int64, balance float64) error {
-	a1, err := getAccount(id1)
-	if err != nil {
-		return err
-	}
-
-	a2, err := getAccount(id2)
-	if err != nil {
-		return err
-	}
-
-	if a1.Balance < balance {
-		return errors.New("Not enough balance")
-	}
-
-	// 下面代码存在问题，需要采用事务回滚来改进（课时 2）
-	a1.Balance -= balance
-	a2.Balance += balance
-	if _, err = x.Update(a1); err != nil {
-		return err
-	} else if _, err = x.Update(a2); err != nil {
-		return err
-	}
-
-	return nil
-}
-
-// 按照 ID 正序排序返回所有账户
-func getAccountsAscId() (as []Account, err error) {
-	// 使用 Find 方法批量获取记录
-	err = x.Find(&as)
-	return as, err
-}
-
-// 按照存款倒序排序返回所有账户
-func getAccountsDescBalance() (as []Account, err error) {
-	// 使用 Desc 方法使结果呈倒序排序
-	err = x.Desc("balance").Find(&as)
-	return as, err
-}
-
-// 删除账户
-func deleteAccount(id int64) error {
-	// 通过 Delete 方法删除记录
-	_, err := x.Delete(&Account{Id: id})
-	return err
 }
