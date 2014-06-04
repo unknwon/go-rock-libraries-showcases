@@ -44,6 +44,20 @@ func main() {
 	fmt.Println("Query all columns:")
 	x.Iterate(new(Account), printFn)
 
+	// 更灵活的迭代
+	a := new(Account)
+	rows, err := x.Rows(a)
+	if err != nil {
+		log.Fatalf("Fail to rows: %v", err)
+	}
+	defer rows.Close()
+	for rows.Next() {
+		if err = rows.Scan(a); err != nil {
+			log.Fatalf("Fail get row: %v", err)
+		}
+		fmt.Printf("%#v\n", a)
+	}
+
 	// 查询特定字段
 	fmt.Println("\nOnly query name:")
 	x.Cols("name").Iterate(new(Account), printFn)
