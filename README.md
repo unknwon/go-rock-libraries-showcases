@@ -25,8 +25,8 @@
 
 ## 课程预告  
 
-- **发布时间**：2014 年 6 月 8 日
-- **课程标题**：xorm 课时 2：高级用法讲解
+- **发布时间**：2014 年 7 月 31 日
+- **课程标题**：goconvey 课时 1：优雅的单元测试
 
 ## 课程大纲
 
@@ -36,6 +36,7 @@
 |[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006)|
 |[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
 ||高级用法讲解|2/2|[优才网] [网易云课堂]|
+|goconvey - 单元测试库|优雅的单元测试|1/1|[优才网] [网易云课堂]|
 
 ### 相关资源
 
@@ -43,8 +44,7 @@
 	 - [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	 - [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 - QQ 交流群
-	- Golang Web开发：231956113
-	- Go Web编程：259316004
+	- Martini 交流群：371440803
 - 学习网站
 	- [Go 中国社区](http://bbs.go-china.org/)
 	- [Go 语言学习园地](http://studygolang.com/)
