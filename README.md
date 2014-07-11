@@ -35,7 +35,7 @@
 |[课程学习指导](lectures/00-introduction)|/|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3699/6825) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=651089&courseId=510006)|
 |[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006)|
 |[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
-||高级用法讲解|2/2|[优才网] [网易云课堂]|
+||高级用法讲解|2/2|[优才网](http://www.ucai.cn/course/chapter/134/4281/9025) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=876010&courseId=510006)|
 |goconvey - 单元测试库|优雅的单元测试|1/1|[优才网] [网易云课堂]|
 
 ### 相关资源
