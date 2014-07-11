@@ -42,7 +42,7 @@
 - **课时时长**：38:06
 - **配套博客**：[xorm - 课时 2：高级用法讲解](http://wuwen.org/article/36/02-xorm-class2.html)
 - **示例代码**：[示例代码1](class2/sample1) [示例代码2](class2/sample2)
-- **在线播放**：[优才网] [土豆网] [网易云课堂]
+- **在线播放**：[优才网] [土豆网](http://www.tudou.com/programs/view/Ye0SQF6zyLI/) [网易云课堂]
 
 ### 课时大纲
 
