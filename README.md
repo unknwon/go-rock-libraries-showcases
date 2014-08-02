@@ -25,7 +25,7 @@
 
 ## 课程预告  
 
-- **发布时间**：2014 年 7 月 31 日
+- **发布时间**：2014 年 8 月 15 日
 - **课程标题**：goconvey 课时 1：优雅的单元测试
 
 ## 课程大纲
@@ -36,7 +36,7 @@
 |[goconfig - INI 解析器](lectures/01-goconfig)|goconfig 使用解析|1/1|[优才网](http://www.ucai.cn/course/chapter/134/3701/6833) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=659131&courseId=510006)|
 |[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
 ||高级用法讲解|2/2|[优才网](http://www.ucai.cn/course/chapter/134/4281/9025) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=876010&courseId=510006)|
-|goconvey - 单元测试库|优雅的单元测试|1/1|[优才网] [网易云课堂]|
+|[goconvey - 单元测试库](lectures/03-goconvey)|优雅的单元测试|1/1|[优才网] [网易云课堂]|
 
 ### 相关资源
 
@@ -46,7 +46,7 @@
 - QQ 交流群
 	- Martini 交流群：371440803
 - 学习网站
-	- [Go 中国社区](http://bbs.go-china.org/)
+	- [Golang Home](http://golanghome.com)
 	- [Go 语言学习园地](http://studygolang.com/)
 	- [Golang 中国](http://golangtc.com/)
 	- [Golang 中国博客](http://blog.go-china.org/)
