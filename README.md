@@ -59,6 +59,6 @@
 
 除特别声明外，本套教程中的内容使用 CC BY-SA 3.0 License（创作共用 署名-相同方式共享 3.0 许可协议）授权，代码遵循 BSD 3-Clause License（3 项条款的 BSD 许可协议）。
 
-## 本套教程由 [优才网](http://www.ucai.cn/) 和 [@开发者头条](http://weibo.com/kaifazhetoutiao) 联合赞助，特此感谢！
+## 本套教程由 [优才网](http://www.ucai.cn/) 和 [@开发者头条](http://toutiao.io/) 联合赞助，特此感谢！
 
 [![优才网 Logo](images/ucai_logo_blue.png)](http://www.ucai.cn) [![开发者头条微信二维码](http://toutiao.io/assets/qrcode_258-0c8555c8807367a644fdadad4ac51913.jpg)](http://toutiao.io/)
