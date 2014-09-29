@@ -25,7 +25,7 @@
 
 ## 课程预告  
 
-- **发布时间**：2014 年 8 月 15 日
+- **发布时间**：2014 年 10 月 2 日
 - **课程标题**：goconvey 课时 1：优雅的单元测试
 
 ## 课程大纲
@@ -53,11 +53,12 @@
 - 辅助站点
 	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
 	- [GoBuild.IO](http://gobuild.io)：Go 语言在线编译和下载服务
+	- [Gopm Registry](http://gopm.io)：Go 语言包版本化缓存和分发服务
 
 ### 授权许可
 
 除特别声明外，本套教程中的内容使用 CC BY-SA 3.0 License（创作共用 署名-相同方式共享 3.0 许可协议）授权，代码遵循 BSD 3-Clause License（3 项条款的 BSD 许可协议）。
 
-## 本套教程由 [优才网](http://www.ucai.cn/) 独家冠名赞助，特此感谢！
+## 本套教程由 [优才网](http://www.ucai.cn/) 和 [@开发者头条](http://weibo.com/kaifazhetoutiao) 联合赞助，特此感谢！
 
-[![优才网 Logo](images/ucai_logo_blue.png)](http://www.ucai.cn)
+[![优才网 Logo](images/ucai_logo_blue.png)](http://www.ucai.cn) [![开发者头条微信二维码](http://toutiao.io/assets/qrcode_258-0c8555c8807367a644fdadad4ac51913.jpg)](http://toutiao.io/)
