@@ -13,7 +13,7 @@
 - **课时时长**：29:04
 - **配套博客**：[goconvey - 课时 1：优雅的单元测试](http://wuwen.org/article/42/02-goconvey-class1.html)
 - **示例代码**：[示例代码](class1/sample)
-- **在线播放**：[优才网] [土豆网] [网易云课堂]
+- **在线播放**：[优才网] [土豆网] [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=999114&courseId=510006)
 
 ### 课时大纲
 
