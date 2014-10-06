@@ -37,6 +37,7 @@
 |[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
 ||高级用法讲解|2/2|[优才网](http://www.ucai.cn/course/chapter/134/4281/9025) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=876010&courseId=510006)|
 |[goconvey - 单元测试库](lectures/03-goconvey)|优雅的单元测试|1/1|[优才网] [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=999114&courseId=510006)|
+|[cli - 命令行辅助库](lectures/04-cli)|快速构建命令行应用|1/1|[优才网] [网易云课堂]|
 
 ### 相关资源
 
