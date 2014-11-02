@@ -1,6 +1,6 @@
 # 代码使用说明
 
-### 本文件夹内的代码隶属于 [Macaron - 课时 1：初识 Macaron](https://github.com/Unknwon/go-rock-libraries-showcases/tree/master/lectures/03-goconvey#%E8%AF%BE%E6%97%B6-1%E4%BC%98%E9%9B%85%E7%9A%84%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95) 请注意配套使用
+### 本文件夹内的代码隶属于 [Macaron - 课时 1：初识 Macaron](https://github.com/Unknwon/go-rock-libraries-showcases/tree/master/lectures/04-macaron#%E8%AF%BE%E6%97%B6-1%E5%88%9D%E8%AF%86-macaron) 请注意配套使用
 
 ## 展示内容
 
