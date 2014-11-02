@@ -1,23 +1,28 @@
-# cli - Go 语言命令行辅助库
+# Macaron - 模块化 Web 框架
 
 ## 课程信息
 
-- **项目主页**：[GitHub](https://github.com/codegangsta/cli)
-- **课程课时**：1 课时
-- **课程卡片**：[Trello](https://trello.com/c/SwpQd3Bi/9-cli-go)
+- **项目主页**：[GitHub](https://github.com/Unknwon/macaron)
+- **课程课时**：? 课时
+- **课程卡片**：[Trello](https://trello.com/c/AfUzavrY/31-macaron-web)
 
-## 课时 1：快速构建命令行应用
+## 课时 1：初识 Macaron
 
 ### 基本信息
 
 - **课时时长**：00:00
-- **配套博客**：[cli - 课时 1：快速构建命令行应用]
-- **示例代码**：[示例代码]
+- **示例代码**：[示例代码](class1/sample)
 - **在线播放**：[优才网] [土豆网] [网易云课堂]
 
 ### 课时大纲
 
-	[00:00] 
+	[00:00] 框架简介
+	[00:00] 最简实例
+	[00:00] 返回值作为响应
+	[00:00] 扩展示例
+	[00:00] 请求上下文
+	[00:00] 处理器
+	[00:00] 小结
 	
 ### 补充说明
 

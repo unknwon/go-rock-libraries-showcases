@@ -25,8 +25,8 @@
 
 ## 课程预告  
 
-- **发布时间**：2014 年 10 月 20 日
-- **课程标题**：
+- **发布时间**：2014 年 11 月 10 日
+- **课程标题**：初识 Macaron
 
 ## 课程大纲
 
@@ -37,7 +37,7 @@
 |[xorm - Go 语言 ORM](lectures/02-xorm)|常见用法指导|1/2|[优才网](http://www.ucai.cn/course/chapter/134/4068/8271) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=729063&courseId=510006)|
 ||高级用法讲解|2/2|[优才网](http://www.ucai.cn/course/chapter/134/4281/9025) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=876010&courseId=510006)|
 |[goconvey - 单元测试库](lectures/03-goconvey)|优雅的单元测试|1/1|[优才网](http://www.ucai.cn/course/chapter/134/4617/9400) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=999114&courseId=510006)|
-|[cli - 命令行辅助库](lectures/04-cli)|快速构建命令行应用|1/1|[优才网] [网易云课堂]|
+|[Macaron - 模块化 Web 框架](lectures/04-macaron)|初识 Macaron|1/?|[优才网] [网易云课堂]|
 
 ### 相关资源
 
@@ -45,12 +45,11 @@
 	 - [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
 	 - [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 - QQ 交流群
-	- Martini 交流群：371440803
+	- Martini&Macaron 交流群：371440803
 - 学习网站
 	- [Golang Home](http://golanghome.com)
 	- [Go 语言学习园地](http://studygolang.com/)
 	- [Golang 中国](http://golangtc.com/)
-	- [Golang 中国博客](http://blog.go-china.org/)
 - 辅助站点
 	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
 	- [GoBuild.IO](http://gobuild.io)：Go 语言在线编译和下载服务
