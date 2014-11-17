@@ -8,9 +8,9 @@
 - **教程讲师**：[无闻](http://weibo.com/Obahua)
 - **教程简介**：《Go名库讲解》是一套针对 Google 出品的 Go 语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程，适合完成学习完成 [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming) 教程的学习者。
 - **学前要求**：本套教程要求学习者具有基本的 Go 语言开发能力，最好是完成学习 [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming) 的同学。
-- **开发环境**：Go 语言 1.2.* - 1.3.\* 版本
+- **开发环境**：Go 语言 1.2.* - 1.4.\* 版本
 - **开发工具**：Sublime Text 3
-- **开发系统**：Mac OS 10.9.*
+- **开发系统**：Mac OS 10.9.\*-10.10.*
 - **教程进展**：通过 [Trello](https://trello.com/b/erdktQ66/go) 可随时关注教程进展情况，订阅邮件更新或评论、投票相应的课程。
 - **提交课程**：如果您关注的第三方库未在 [Trello](https://trello.com/b/erdktQ66/go) 的所有列表中找到，可以通过 [提交 Issue](https://github.com/Unknwon/go-rock-libraries-showcases/issues) 的方式告知我。
 - **捐赠作者**：如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [支付宝](http://gogs.io/donate) 为作者提供小额捐助，以资鼓励。
@@ -25,8 +25,8 @@
 
 ## 课程预告  
 
-- **发布时间**：2014 年 11 月 10 日
-- **课程标题**：初识 Macaron
+- **发布时间**：2014 年 12 月 1 日
+- **课程标题**：核心组件的使用
 
 ## 课程大纲
 
