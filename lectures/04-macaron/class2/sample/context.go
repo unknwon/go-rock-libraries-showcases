@@ -16,9 +16,6 @@ func main() {
 	// 在同一个请求中，多个处理器之间可相互传递数据
 	m.Get("/", handler1, handler2, handler3)
 
-	// 获取 URL 参数
-	m.Get("/u/:uid", paramsHandler)
-
 	// 获取请求参数
 	m.Get("/q", queryHandler)
 
@@ -57,12 +54,6 @@ func handler2(ctx *macaron.Context) {
 
 func handler3(ctx *macaron.Context) string {
 	return fmt.Sprintf("Num: %d", ctx.Data["Num"])
-}
-
-func paramsHandler(ctx *macaron.Context) {
-	fmt.Println(ctx.Params(":uid"))
-	fmt.Println(ctx.ParamsInt(":uid"))
-	fmt.Println(ctx.ParamsInt64(":uid"))
 }
 
 func queryHandler(ctx *macaron.Context) {
