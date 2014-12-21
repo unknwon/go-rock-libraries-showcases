@@ -33,7 +33,7 @@
 ||高级用法讲解|2/2|[优才网](http://www.ucai.cn/course/chapter/134/4281/9025) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=876010&courseId=510006)|
 |[goconvey - 单元测试库](lectures/03-goconvey)|优雅的单元测试|1/1|[优才网](http://www.ucai.cn/course/chapter/134/4617/9400) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=999114&courseId=510006)|
 |[Macaron - 模块化 Web 框架](lectures/04-macaron)|初识 Macaron|1/?|[优才网](http://www.ucai.cn/course/chapter/134/4638/9497) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1051887&courseId=510006)|
-||核心服务的使用|2/?|[优才网] [网易云课堂]|
+||核心服务的使用|2/?|[优才网] [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1125042&courseId=510006)|
 
 ### 相关资源
 
