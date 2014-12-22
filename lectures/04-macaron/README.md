@@ -27,7 +27,7 @@
 
 - **课时时长**：44:24
 - **示例代码**：[示例代码](class2/sample)
-- **在线播放**：[优才网] [土豆网](http://www.tudou.com/programs/view/ng8QHdjCngE/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1125042&courseId=510006)
+- **在线播放**：[优才网](http://www.ucai.cn/course/chapter/134/4638/9658) [土豆网](http://www.tudou.com/programs/view/ng8QHdjCngE/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1125042&courseId=510006)
 
 ### 课时大纲
 
