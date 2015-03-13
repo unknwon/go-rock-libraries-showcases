@@ -57,4 +57,4 @@
 
 ## 本套教程由 [优才网](http://www.ucai.cn/) 和 [@开发者头条](http://toutiao.io/) 联合赞助，特此感谢！
 
-[![优才网 Logo](images/ucai_logo_blue.png)](http://www.ucai.cn) [![开发者头条微信二维码](http://toutiao.io/assets/qrcode_258-0c8555c8807367a644fdadad4ac51913.jpg)](http://toutiao.io/)
+[![优才网 Logo](images/ucai_logo_blue.png)](http://www.ucai.cn) [![开发者头条微信二维码](images/toutiao.jpg)](http://toutiao.io/)
