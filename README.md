@@ -11,16 +11,13 @@
 - **开发环境**：Go 语言 1.2.* - 1.4.\* 版本
 - **开发工具**：Sublime Text 3
 - **开发系统**：Mac OS 10.9.\*-10.10.*
-- **教程进展**：通过 [Trello](https://trello.com/b/erdktQ66/go) 可随时关注教程进展情况，订阅邮件更新或评论、投票相应的课程。
-- **提交课程**：如果您关注的第三方库未在 [Trello](https://trello.com/b/erdktQ66/go) 的所有列表中找到，可以通过 [提交 Issue](https://github.com/Unknwon/go-rock-libraries-showcases/issues) 的方式告知我。
+- **教程进展**：通过 [Worktile](https://worktile.com/project/4e9f358914544ab8b999f800ab900c0d) 可随时关注教程进展情况
 - **收录网站**：
 	- [优才网](http://www.ucai.cn/course/show/134)
 	- [土豆网](http://www.tudou.com/plcover/m1AWOKxI9nQ/)
 	- [网易云课堂](http://study.163.com/course/courseMain.htm?courseId=510006#/courseMain)
 - **课程下载**：
 	- [百度网盘](http://pan.baidu.com/s/1mgMCV5e)（提取码：1x69）
-
-#### 如果您特别关注某个课程，请在 [Trello](https://trello.com/b/erdktQ66/go) 为它投票，这样可以提升录制优先级
 
 ## 课程大纲
 
@@ -48,7 +45,6 @@
 	- [Golang 中国](http://golangtc.com/)
 - 辅助站点
 	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
-	- [GoBuild.IO](http://gobuild.io)：Go 语言在线编译和下载服务
 	- [Gopm Registry](http://gopm.io)：Go 语言包版本化缓存和分发服务
 
 ### 授权许可
