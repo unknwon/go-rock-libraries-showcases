@@ -42,16 +42,10 @@ func main() {
 
 	// 对已有的键进行值重写操作，返回值为 bool 类型，表示是否为插入操作
 	isInsert := cfg.SetValue(goconfig.DEFAULT_SECTION, "key_default", "这是新的值")
-	if err != nil {
-		log.Fatalf("无法设置键值（%s）：%s", "key_default", err)
-	}
 	log.Printf("设置键值 %s 为插入操作：%v", "key_default", isInsert)
 
 	// 对不存在的键进行插入操作
 	isInsert = cfg.SetValue(goconfig.DEFAULT_SECTION, "key_new", "这是新插入的键")
-	if err != nil {
-		log.Fatalf("无法设置键值（%s）：%s", "key_new", err)
-	}
 	log.Printf("设置键值 %s 为插入操作：%v", "key_new", isInsert)
 
 	// 传入空白字符串也可直接操作默认分区
