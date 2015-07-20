@@ -36,7 +36,6 @@
 
 - 教程资源
 	 - [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
-	 - [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 - QQ 交流群
 	- Martini&Macaron 交流群：371440803
 - 学习网站
