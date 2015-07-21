@@ -45,9 +45,9 @@
 
 ### 基本信息
 
-- **课时时长**：00:00
+- **课时时长**：28:49
 - **示例代码**：[示例代码](class3/sample)
-- **在线播放**：[优才网] [土豆网] [网易云课堂]
+- **在线播放**：[优才网] [土豆网](http://www.tudou.com/programs/view/m8m3_H3MMfg/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=510006#/learn/video?lessonId=1484008&courseId=510006)
 
 ### 课时大纲
 
